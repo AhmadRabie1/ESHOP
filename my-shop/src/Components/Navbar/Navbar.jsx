@@ -115,7 +115,7 @@ const Navbar = () => {
                 4
               </div>
             </button>
-            {/* Dark Mode section */}
+            {/* DarkMode section */}
             <div>
               <DarkMode />
             </div>
