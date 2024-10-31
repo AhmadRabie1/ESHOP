@@ -10,7 +10,7 @@ const Category = () => {
       <div className="container">
         <div className="grid grid-cols-1 sm:placeholder:grid-cols-2 lg:grid-cols-4 gap-8">
           {/*first col */}
-          <div className="py-10 pl-5 bg-gradient-to-br from-black/90 to-brandYellow/70 text-white rounded-3xl relative h-[320px] flex items-end">
+          <div className="py-10 pl-5 bg-gradient-to-br from-black/90 to-black/70 text-white rounded-3xl relative h-[320px] flex items-end">
             <div>
               <div className="mb-4">
                 <p className="mb-[2px] text-gray-400">Enjoy</p>
@@ -28,7 +28,7 @@ const Category = () => {
             <img src={Image1} alt="" className="w-[320px] absolute bottom-0" />
           </div>
           {/*second col */}
-          <div className="py-10 pl-5 bg-gradient-to-br from-black/90 to-black/70 text-white rounded-3xl relative h-[320px] flex items-end">
+          <div className="py-10 pl-5 bg-gradient-to-br from-black/90 to-brandYellow/70 text-white rounded-3xl relative h-[320px] flex items-end">
             <div>
               <div className="mb-4">
                 <p className="mb-[2px] text-gray-400">Enjoy</p>
